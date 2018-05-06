@@ -29,9 +29,9 @@ avalon-conrol.txt
 现在只要提供avalon.txt   
 avalon-control.txt  
 经过程序运行后，可以在数据库中存储页面结构  
-并生成128882.js,这个文件内容跟阿鸟你提供的模板内容一致  
+并生成128882.js,这个文件内容跟阿鸟你提供的模板内容一致    
 
-# 运行命令  
-python readrule.py
-python readcontrol.py
-python createjs.py
+# 运行命令  
+python readrule.py  
+python readcontrol.py  
+python createjs.py  
