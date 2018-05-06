@@ -40,7 +40,13 @@ python readrule.py
 python readcontrol.py  
 python createjs.py  
 
+# 数据库定义  
+请查看库里面的[database.md](./database.md)文件  
+  
 # TODO  
 通过浏览器网页生成  
+avalon.txt  
+avalon-control.txt  
+通过数据库生成  
 avalon.txt  
 avalon-control.txt  
